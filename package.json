@@ -1,0 +1,20 @@
+{
+  "name": "pomododo",
+  "version": "0.1.0",
+  "description": "A simple cli based on the pomodoro technique",
+  "bin": {
+    "pomododo": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.12",
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0",
+    "yargs": "^13.2.2"
+  }
+}
