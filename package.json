@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A simple cli based on the pomodoro technique",
   "bin": {
-    "pomododo": "./index.js"
+    "pomododo": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

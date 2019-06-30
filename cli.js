@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const yargs = require('yargs');
 
 /**
  * Command line interface code for the app
