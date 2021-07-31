@@ -24,6 +24,7 @@ Or setting a specific time in minutes using the `-t` / `time` option
 
 ```bash
 $ pomododo start -t 5
+
 ```
 
 ## License
